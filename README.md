@@ -35,13 +35,14 @@ Program ini dibuat untuk menghitung jarak yang ditempuh oleh mobil jika kecepata
    ```powershell
    .\program.exe
    ```
-3. **Buat grafik (opsional):**
+3. **Grafik :**
    ```powershell
    pip install pandas matplotlib
    python generate_graph_hasil1.py
    python generate_graph_hasil2.py
    ```
-
+![Image](https://github.com/user-attachments/assets/c48ebd02-219f-4b7c-aa27-62426f000bec)
+![Image](https://github.com/user-attachments/assets/de7b2283-d27d-4fed-8bca-474e7b0f0b89)
 ### Contoh Hasil CSV
 | waktu | kecepatan | jarak |
 |-------|-----------|-------|
